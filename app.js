@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let numeroIntentos = 0;
 let numerosSorteados = [];
-let numeroMaximo = 20;
+let numeroMaximo = 10;
 
 function asignarTextoElemento(elemento, texto){
     let elementoHTML = document.querySelector(elemento);
